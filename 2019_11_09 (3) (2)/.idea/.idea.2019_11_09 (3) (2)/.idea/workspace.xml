@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c4127f7-c07c-43c4-be7b-0ca496b23a12" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MultiDrawing.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Server/MultiDrawing.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="64" column="15" lean-forward="true" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+              <folding>
+                <marker date="1573729591866" expanded="false" signature="6:78" ph="..." />
+                <marker date="1573729591866" expanded="true" signature="121:7937" ph="{...}" />
+                <marker date="1573729591866" expanded="false" signature="128:740" ph="Variable" />
+                <marker date="1573729591866" expanded="false" signature="746:958" ph="Event" />
+                <marker date="1573729591866" expanded="true" signature="777:942" ph="{...}" />
+                <marker date="1573729591866" expanded="true" signature="964:7935" ph="Fuction" />
+                <marker date="1573729591866" expanded="true" signature="985:1212" ph="/// 여러 유저가 전송한 데이터 중 내 이름과 같은 이름이 있으면 그 이름의 렌더러에 포지션 값을 추가하며 ... " />
+                <marker date="1573729591866" expanded="true" signature="1255:2535" ph="{...}" />
+                <marker date="1573729591866" expanded="true" signature="1417:2529" ph="{...}" />
+                <marker date="1573729591866" expanded="true" signature="1479:1531" ph="{...}" />
+                <marker date="1573729591866" expanded="true" signature="1544:1705" ph="/* 잘못함 이름과 다를경우 진행하지 않음,이메일로 관리 ... */" />
+                <marker date="1573729591866" expanded="true" signature="1754:2519" ph="{...}" />
+                <marker date="1573729591866" expanded="true" signature="1809:2041" ph="{...}" />
+                <marker date="1573729591866" expanded="true" signature="2099:2505" ph="{...}" />
+                <marker date="1573729591866" expanded="true" signature="2235:2487" ph="{...}" />
+                <marker date="1573729591866" expanded="true" signature="2541:3090" ph="/// 기존 라인렌더러에 값을 추가 시킴 ... " />
+                <marker date="1573729591866" expanded="true" signature="3356:3617" ph="{...}" />
+                <marker date="1573729591866" expanded="true" signature="3624:4177" ph="/// 라인렌더러를 추가 하고 초기 값을 지정함 ... " />
+                <marker date="1573729591866" expanded="true" signature="4443:4813" ph="{...}" />
+                <marker date="1573729591866" expanded="true" signature="4819:5366" ph="/// 직접적으로 라인랜더러를 그려줌 ... " />
+                <marker date="1573729591866" expanded="true" signature="5625:6187" ph="{...}" />
+                <marker date="1573729591866" expanded="true" signature="5632:5909" ph="/* if (a == null) ... */" />
+                <marker date="1573729591866" expanded="true" signature="5938:5990" ph="{...}" />
+                <marker date="1573729591866" expanded="true" signature="6193:6471" ph="/// 선택한 컬러의 R,G,B값을 저장함 ... " />
+                <marker date="1573729591866" expanded="true" signature="6523:6586" ph="{...}" />
+                <marker date="1573729591866" expanded="true" signature="6592:6659" ph="/// 화면에 라인렌더러를 생성해서 그림을 그리게끔 함 ... " />
+                <marker date="1573729591866" expanded="true" signature="6686:7244" ph="{...}" />
+                <marker date="1573729591866" expanded="true" signature="6872:7238" ph="{...}" />
+                <marker date="1573729591866" expanded="true" signature="7250:7350" ph="///  터치한 값의 포지션을 구하는 함수  ... " />
+                <marker date="1573729591866" expanded="true" signature="7384:7920" ph="{...}" />
+                <marker date="1573729591866" expanded="true" signature="7708:7728" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Server/MultiDrawing.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="527" />
+    <option name="y" value="73" />
+    <option name="width" value="1400" />
+    <option name="height" value="971" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="2019_11_09 (3) (2)" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c4127f7-c07c-43c4-be7b-0ca496b23a12" name="Default" comment="" />
+      <created>1575777783860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575777783860</updated>
+      <workItem from="1575777788905" duration="1619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1619000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="527" y="73" width="1400" height="971" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Server/MultiDrawing.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="64" column="15" lean-forward="true" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+          <folding>
+            <marker date="1573729591866" expanded="false" signature="6:78" ph="..." />
+            <marker date="1573729591866" expanded="true" signature="121:7937" ph="{...}" />
+            <marker date="1573729591866" expanded="false" signature="128:740" ph="Variable" />
+            <marker date="1573729591866" expanded="false" signature="746:958" ph="Event" />
+            <marker date="1573729591866" expanded="true" signature="777:942" ph="{...}" />
+            <marker date="1573729591866" expanded="true" signature="964:7935" ph="Fuction" />
+            <marker date="1573729591866" expanded="true" signature="985:1212" ph="/// 여러 유저가 전송한 데이터 중 내 이름과 같은 이름이 있으면 그 이름의 렌더러에 포지션 값을 추가하며 ... " />
+            <marker date="1573729591866" expanded="true" signature="1255:2535" ph="{...}" />
+            <marker date="1573729591866" expanded="true" signature="1417:2529" ph="{...}" />
+            <marker date="1573729591866" expanded="true" signature="1479:1531" ph="{...}" />
+            <marker date="1573729591866" expanded="true" signature="1544:1705" ph="/* 잘못함 이름과 다를경우 진행하지 않음,이메일로 관리 ... */" />
+            <marker date="1573729591866" expanded="true" signature="1754:2519" ph="{...}" />
+            <marker date="1573729591866" expanded="true" signature="1809:2041" ph="{...}" />
+            <marker date="1573729591866" expanded="true" signature="2099:2505" ph="{...}" />
+            <marker date="1573729591866" expanded="true" signature="2235:2487" ph="{...}" />
+            <marker date="1573729591866" expanded="true" signature="2541:3090" ph="/// 기존 라인렌더러에 값을 추가 시킴 ... " />
+            <marker date="1573729591866" expanded="true" signature="3356:3617" ph="{...}" />
+            <marker date="1573729591866" expanded="true" signature="3624:4177" ph="/// 라인렌더러를 추가 하고 초기 값을 지정함 ... " />
+            <marker date="1573729591866" expanded="true" signature="4443:4813" ph="{...}" />
+            <marker date="1573729591866" expanded="true" signature="4819:5366" ph="/// 직접적으로 라인랜더러를 그려줌 ... " />
+            <marker date="1573729591866" expanded="true" signature="5625:6187" ph="{...}" />
+            <marker date="1573729591866" expanded="true" signature="5632:5909" ph="/* if (a == null) ... */" />
+            <marker date="1573729591866" expanded="true" signature="5938:5990" ph="{...}" />
+            <marker date="1573729591866" expanded="true" signature="6193:6471" ph="/// 선택한 컬러의 R,G,B값을 저장함 ... " />
+            <marker date="1573729591866" expanded="true" signature="6523:6586" ph="{...}" />
+            <marker date="1573729591866" expanded="true" signature="6592:6659" ph="/// 화면에 라인렌더러를 생성해서 그림을 그리게끔 함 ... " />
+            <marker date="1573729591866" expanded="true" signature="6686:7244" ph="{...}" />
+            <marker date="1573729591866" expanded="true" signature="6872:7238" ph="{...}" />
+            <marker date="1573729591866" expanded="true" signature="7250:7350" ph="///  터치한 값의 포지션을 구하는 함수  ... " />
+            <marker date="1573729591866" expanded="true" signature="7384:7920" ph="{...}" />
+            <marker date="1573729591866" expanded="true" signature="7708:7728" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

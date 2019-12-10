@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1009292550895",
+    "firebase_url": "https://hopstick-d4948.firebaseio.com",
+    "project_id": "hopstick-d4948",
+    "storage_bucket": "hopstick-d4948.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009292550895:android:32a612913564769af6f11a",
+        "android_client_info": {
+          "package_name": "com.bitcamp.HelloAR2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009292550895-19luk5hfmv8ofmsondahsfalhh5v9ndm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxikuis98YaZSO1R6ZXLZe91nJFWq9yr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009292550895-19luk5hfmv8ofmsondahsfalhh5v9ndm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
